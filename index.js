@@ -4,8 +4,8 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  var m = `Happy holidays, ${n}!`
-  return m
+  return `Happy holidays, ${n}!`
+  
 }
 
 function happyHolidayTo(holiday, name) {
